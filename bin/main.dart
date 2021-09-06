@@ -94,6 +94,8 @@ String devolverOlaNome(String nome) {
   return 'Olá $nome!';
 }
 
+// FIM -- AULA 02 - SEGUNDA SEMANA
+
 // AULA 01 - PRIMEIRA SEMANA
 /**
 import 'package:projeto_aula/projeto_aula.dart' as projeto_aula;
